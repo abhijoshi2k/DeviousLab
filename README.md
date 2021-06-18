@@ -1,5 +1,7 @@
-<h1 align="left">Hi 👋, I'm Himesh</h1>
-<h3 align="left">A developer from Sri Lanka aiming to Currently living in Dubai, UAE. I'm aiming to become proficient in the MERN stack and eventually become a full-stack developer. Attempting to gain knowledge in the cloud computing area with AWS and in DevOps.</h3>
+<img src="DeviousLab.png">
+
+<h1 align="left">Hello! 👋</h1>
+<h3 align="left">I'm a developer from Sri Lanka aiming to Currently living in Dubai, UAE. I'm aiming to become proficient in the MERN stack and eventually become a full-stack developer. Attempting to gain knowledge in the cloud computing area with AWS and in DevOps.</h3>
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React, Sass, Node.js, Python, GoLang, AWS, Git, Docker, Kubernetes**
 
