@@ -11,9 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deviouslab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/twitter.svg" alt="deviouslab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himeshsamara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/linkedin.svg" alt="himeshsamara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/deviouslab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/stackoverflow.svg" alt="deviouslab" height="30" width="40" /></a>
+<a href="https://twitter.com/deviouslab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/twitter.svg" alt="deviouslab twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himeshsamara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/linkedin.svg" alt="deviouslab linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/deviouslab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/stackoverflow.svg" alt="deviouslab stackoverflow" height="30" width="40" /></a>
+<a href="https://www.polywork.com/devious" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/polywork.svg" alt="deviouslab polywork" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/deviouslab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/freecodecamp.svg" alt="deviouslab freecodecamp profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
