@@ -31,11 +31,11 @@
 
 <h3 align="left">Recent Activity:</h3>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/DeviousLab/crwn-clothing/pull/14) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-2. 💪 Opened PR [#14](https://github.com/DeviousLab/crwn-clothing/pull/14) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-3. 🎉 Merged PR [#13](https://github.com/DeviousLab/crwn-clothing/pull/13) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-4. 💪 Opened PR [#13](https://github.com/DeviousLab/crwn-clothing/pull/13) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-5. 🎉 Merged PR [#12](https://github.com/DeviousLab/crwn-clothing/pull/12) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+1. ❗️ Opened issue [#1293](https://github.com/nodesource/distributions/issues/1293) in [nodesource/distributions](https://github.com/nodesource/distributions)
+2. 🎉 Merged PR [#14](https://github.com/DeviousLab/crwn-clothing/pull/14) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+3. 💪 Opened PR [#14](https://github.com/DeviousLab/crwn-clothing/pull/14) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+4. 🎉 Merged PR [#13](https://github.com/DeviousLab/crwn-clothing/pull/13) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+5. 💪 Opened PR [#13](https://github.com/DeviousLab/crwn-clothing/pull/13) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Statistics:</h3>
