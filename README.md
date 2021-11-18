@@ -31,8 +31,16 @@
 
 <h3 align="left">Recent Activity:</h3>
 <!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#16](https://github.com/DeviousLab/crwn-clothing/pull/16) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+2. 🎉 Merged PR [#17](https://github.com/DeviousLab/crwn-clothing/pull/17) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+3. 💪 Opened PR [#17](https://github.com/DeviousLab/crwn-clothing/pull/17) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+4. 💪 Opened PR [#16](https://github.com/DeviousLab/crwn-clothing/pull/16) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+5. 🎉 Merged PR [#15](https://github.com/DeviousLab/crwn-clothing/pull/15) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, November 18th, 2021, 3:40:28 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deviouslab&show_icons=true&locale=en&theme=dark&layout=compact" alt="deviouslab" /></p>
