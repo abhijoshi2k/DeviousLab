@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#17](https://github.com/DeviousLab/tanmu-website/pull/17) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
-2. 💪 Opened PR [#17](https://github.com/DeviousLab/tanmu-website/pull/17) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
-3. 🎉 Merged PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-4. 💪 Opened PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-5. 🎉 Merged PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
+1. 🎉 Merged PR [#19](https://github.com/DeviousLab/crwn-clothing/pull/19) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+2. 💪 Opened PR [#19](https://github.com/DeviousLab/crwn-clothing/pull/19) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+3. 🎉 Merged PR [#17](https://github.com/DeviousLab/tanmu-website/pull/17) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+4. 💪 Opened PR [#17](https://github.com/DeviousLab/tanmu-website/pull/17) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+5. 🎉 Merged PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 30th, 2021, 9:39:12 PM
+Last Updated: Tuesday, November 30th, 2021, 10:11:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
