@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-2. 💪 Opened PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
-3. 🎉 Merged PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
-4. 📔 Created new repository [DeviousLab/gatsbyjs-blog](https://github.com/DeviousLab/gatsbyjs-blog)
-5. ❗️ Opened issue [#132](https://github.com/Readme-Workflows/recent-activity/issues/132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🎉 Merged PR [#17](https://github.com/DeviousLab/tanmu-website/pull/17) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+2. 💪 Opened PR [#17](https://github.com/DeviousLab/tanmu-website/pull/17) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+3. 🎉 Merged PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+4. 💪 Opened PR [#18](https://github.com/DeviousLab/crwn-clothing/pull/18) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+5. 🎉 Merged PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 30th, 2021, 9:22:33 PM
+Last Updated: Tuesday, November 30th, 2021, 9:39:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
