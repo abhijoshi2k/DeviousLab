@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/DeviousLab/deviouslab-portfolio/pull/2) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
-2. 💪 Opened PR [#2](https://github.com/DeviousLab/deviouslab-portfolio/pull/2) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
-3. 📔 Created new repository [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
-4. ⭐ Starred [tj/git-extras](https://github.com/tj/git-extras)
-5. 🎉 Merged PR [#20](https://github.com/DeviousLab/crwn-clothing/pull/20) in [DeviousLab/crwn-clothing](https://github.com/DeviousLab/crwn-clothing)
+1. 💪 Opened PR [#3](https://github.com/DeviousLab/deviouslab-portfolio/pull/3) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+2. 🎉 Merged PR [#2](https://github.com/DeviousLab/deviouslab-portfolio/pull/2) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+3. 💪 Opened PR [#2](https://github.com/DeviousLab/deviouslab-portfolio/pull/2) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+4. 📔 Created new repository [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+5. ⭐ Starred [tj/git-extras](https://github.com/tj/git-extras)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 6th, 2021, 9:08:22 PM
+Last Updated: Monday, December 6th, 2021, 9:33:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
