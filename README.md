@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/DeviousLab/deviouslab-portfolio/pull/7) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
-2. 💪 Opened PR [#7](https://github.com/DeviousLab/deviouslab-portfolio/pull/7) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
-3. 🔱 Forked [DeviousLab/kibana](https://github.com/DeviousLab/kibana) from [elastic/kibana](https://github.com/elastic/kibana)
-4. 🎉 Merged PR [#6](https://github.com/DeviousLab/deviouslab-portfolio/pull/6) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
-5. 💪 Opened PR [#6](https://github.com/DeviousLab/deviouslab-portfolio/pull/6) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+1. 🎉 Merged PR [#9](https://github.com/DeviousLab/deviouslab-portfolio/pull/9) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+2. 💪 Opened PR [#9](https://github.com/DeviousLab/deviouslab-portfolio/pull/9) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+3. 🎉 Merged PR [#8](https://github.com/DeviousLab/deviouslab-portfolio/pull/8) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+4. 💪 Opened PR [#8](https://github.com/DeviousLab/deviouslab-portfolio/pull/8) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
+5. 🎉 Merged PR [#7](https://github.com/DeviousLab/deviouslab-portfolio/pull/7) in [DeviousLab/deviouslab-portfolio](https://github.com/DeviousLab/deviouslab-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 6th, 2021, 11:33:58 PM
+Last Updated: Tuesday, December 7th, 2021, 12:11:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
