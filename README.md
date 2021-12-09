@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/DeviousLab/tailwind-projects/pull/2) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
-2. 💪 Opened PR [#2](https://github.com/DeviousLab/tailwind-projects/pull/2) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
-3. 🎉 Merged PR [#1](https://github.com/DeviousLab/tailwind-projects/pull/1) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
-4. 💪 Opened PR [#1](https://github.com/DeviousLab/tailwind-projects/pull/1) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
-5. 📔 Created new repository [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
+1. 📔 Created new repository [DeviousLab/react-roguelike](https://github.com/DeviousLab/react-roguelike)
+2. 🎉 Merged PR [#2](https://github.com/DeviousLab/tailwind-projects/pull/2) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
+3. 💪 Opened PR [#2](https://github.com/DeviousLab/tailwind-projects/pull/2) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
+4. 🎉 Merged PR [#1](https://github.com/DeviousLab/tailwind-projects/pull/1) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
+5. 💪 Opened PR [#1](https://github.com/DeviousLab/tailwind-projects/pull/1) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 10th, 2021, 1:08:44 AM
+Last Updated: Friday, December 10th, 2021, 1:35:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
