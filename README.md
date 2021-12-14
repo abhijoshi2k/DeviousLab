@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation)
-2. 📔 Created new repository [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
-3. 🎉 Merged PR [#3](https://github.com/DeviousLab/tailwind-projects/pull/3) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
-4. 💪 Opened PR [#3](https://github.com/DeviousLab/tailwind-projects/pull/3) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
-5. ⭐ Starred [karngyan/karngyan.com](https://github.com/karngyan/karngyan.com)
+1. ⭐ Starred [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical)
+2. ⭐ Starred [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation)
+3. 📔 Created new repository [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
+4. 🎉 Merged PR [#3](https://github.com/DeviousLab/tailwind-projects/pull/3) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
+5. 💪 Opened PR [#3](https://github.com/DeviousLab/tailwind-projects/pull/3) in [DeviousLab/tailwind-projects](https://github.com/DeviousLab/tailwind-projects)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 15th, 2021, 3:10:04 AM
+Last Updated: Wednesday, December 15th, 2021, 3:36:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
