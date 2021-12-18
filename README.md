@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/DeviousLab/password-manager/pull/1) in [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
-2. 💪 Opened PR [#1](https://github.com/DeviousLab/password-manager/pull/1) in [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
-3. ⭐ Starred [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical)
-4. ⭐ Starred [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation)
-5. 📔 Created new repository [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
+1. 🎉 Merged PR [#18](https://github.com/DeviousLab/tanmu-website/pull/18) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+2. 💪 Opened PR [#18](https://github.com/DeviousLab/tanmu-website/pull/18) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+3. 🎉 Merged PR [#1](https://github.com/DeviousLab/password-manager/pull/1) in [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
+4. 💪 Opened PR [#1](https://github.com/DeviousLab/password-manager/pull/1) in [DeviousLab/password-manager](https://github.com/DeviousLab/password-manager)
+5. ⭐ Starred [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 18th, 2021, 9:22:46 PM
+Last Updated: Saturday, December 18th, 2021, 9:42:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
