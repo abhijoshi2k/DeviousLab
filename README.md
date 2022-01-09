@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/DeviousLab/feedback-app/pull/1) in [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
-2. 💪 Opened PR [#1](https://github.com/DeviousLab/feedback-app/pull/1) in [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
-3. 📔 Created new repository [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
-4. 🎉 Merged PR [#18](https://github.com/DeviousLab/tanmu-website/pull/18) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
-5. 💪 Opened PR [#18](https://github.com/DeviousLab/tanmu-website/pull/18) in [DeviousLab/tanmu-website](https://github.com/DeviousLab/tanmu-website)
+1. 🎉 Merged PR [#2](https://github.com/DeviousLab/feedback-app/pull/2) in [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
+2. 💪 Opened PR [#2](https://github.com/DeviousLab/feedback-app/pull/2) in [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
+3. 🎉 Merged PR [#1](https://github.com/DeviousLab/feedback-app/pull/1) in [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
+4. 💪 Opened PR [#1](https://github.com/DeviousLab/feedback-app/pull/1) in [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
+5. 📔 Created new repository [DeviousLab/feedback-app](https://github.com/DeviousLab/feedback-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 10th, 2022, 12:10:42 AM
+Last Updated: Monday, January 10th, 2022, 12:38:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
