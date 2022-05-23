@@ -32,15 +32,15 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/DeviousLab/ux_portfolio/pull/2) in [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
-2. 💪 Opened PR [#2](https://github.com/DeviousLab/ux_portfolio/pull/2) in [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
-3. ❌ Closed PR [#1](https://github.com/DeviousLab/ux_portfolio/pull/1) in [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
-4. 📔 Created new repository [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
-5. 🎉 Merged PR [#3](https://github.com/DeviousLab/support-tickets/pull/3) in [DeviousLab/support-tickets](https://github.com/DeviousLab/support-tickets)
+1. 📔 Created new repository [DeviousLab/devconnector](https://github.com/DeviousLab/devconnector)
+2. 🎉 Merged PR [#2](https://github.com/DeviousLab/ux_portfolio/pull/2) in [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
+3. 💪 Opened PR [#2](https://github.com/DeviousLab/ux_portfolio/pull/2) in [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
+4. ❌ Closed PR [#1](https://github.com/DeviousLab/ux_portfolio/pull/1) in [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
+5. 📔 Created new repository [DeviousLab/ux_portfolio](https://github.com/DeviousLab/ux_portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 23rd, 2022, 11:09:08 PM
+Last Updated: Monday, May 23rd, 2022, 11:34:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3 align="left">Statistics:</h3>
