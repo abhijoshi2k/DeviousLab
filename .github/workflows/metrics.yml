@@ -1,8 +1,8 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "0 12 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - public_repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -26,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: DeviousLab
+          user: deviouslab
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dubai
@@ -40,8 +39,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_followup: yes
-          plugin_followup_sections: repositories
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -55,14 +52,17 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_indepth: yes
           plugin_notable_types: commit
           plugin_posts: yes
           plugin_posts_limit: 4
           plugin_posts_source: dev.to
           plugin_posts_user: deviouslab
-          plugin_projects: yes
-          plugin_projects_limit: 3
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 11885549
           plugin_tweets: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: deviouslab
