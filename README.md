@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React, Sass, Node.js, Python, GoLang, AWS, Git, Docker, Kubernetes**
 
-- 👨‍💻 All of my projects are available at: [https://deviouslab.github.io/Main-Website/](https://deviouslab.github.io/Main-Website/)
+- 👨‍💻 All of my projects are available at: [https://deviouslab.dev](https://deviouslab.dev)
 
 - 📫 How to reach me: **deviouslab@gmail.com**
 
