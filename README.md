@@ -18,4 +18,6 @@
 <a href="https://www.freecodecamp.org/deviouslab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/freecodecamp.svg" alt="deviouslab freecodecamp profile" height="30" width="40" /></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/DeviousLab?template=classic&followup=1&projects=1&activity=1&notable=1&achievements=1&tweets=1&posts=1&languages=1&base.indepth=false&base.hireable=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&projects.limit=3&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=true&notable.types=commit&tweets.attachments=false&tweets.limit=2&tweets.user=deviouslab&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=deviouslab&config.timezone=Asia%2FDubai)
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="500">
+</p>
