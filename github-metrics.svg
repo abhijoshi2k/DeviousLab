@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6090 Commits
+                            6122 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.5113216633982" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="250.5113216633982" y="0" width="164.29817668061438" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.8094983440126" y="0" width="31.15474875132053" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="445.9642470953331" y="0" width="5.996501913783651" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.9607490091168" y="0" width="4.297281461320973" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="456.2580304704378" y="0" width="1.7768588505047724" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="458.03488932094257" y="0" width="1.5053179728061996" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.5402072937487" y="0" width="0.4597927062512894" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.4884337970942" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="250.4884337970942" y="0" width="164.28316564368043" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="414.7715994407746" y="0" width="31.151902310211923" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.92350175098653" y="0" width="6.037981761068619" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.9614835120551" y="0" width="4.296888841925952" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="456.2583723539811" y="0" width="1.7766965085094428" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="458.0350688624905" y="0" width="1.5051804400341162" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.5402493025246" y="0" width="0.45975069747532527" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -406,6 +406,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#50abbc9</div>
+                                        <div class="message">Implemented streamlit code to upload pdf and view fake df
+
+Signed-off-by: DeviousLab &lt;deviouslab@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DeviousLab/submittal-ai</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#39e63b6</div>
                                         <div class="message">Implemented LangChain sqlite caching
 
@@ -472,23 +494,6 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#12 [Snyk] Security upgrade pygments from 2.12.0 to 2.15.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">DeviousLab/DNJokes-API</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
                                         <span class="issue">#12 [Snyk] Security upgrade pygments from 2.12.0 to 2.15.0</span>
                                     </div>
                                 </div>
@@ -846,7 +851,7 @@ I tried using this as a filter but I'm curious if there's a simpler method:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2023, 16:10:28 (timezone Asia/Dubai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 16:10:25 (timezone Asia/Dubai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
